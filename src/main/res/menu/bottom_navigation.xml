@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="HOME"
+        android:icon="@drawable/ic_manage"
+        ></item>
+    <item android:id="@+id/book"
+        android:title="MANAGE"
+        android:icon="@drawable/ic_contact"
+        ></item>
+    <item android:id="@+id/profile"
+        android:title="HOW TO USE"
+        android:icon="@drawable/ic_howto"
+        ></item>
+
+
+</menu>
